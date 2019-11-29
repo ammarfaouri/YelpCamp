@@ -1,12 +1,27 @@
-.thumbnail img{
-    width : 100%;
+.thumbnail img {
+  width: 100%;
 }
 
-.thumbnail{
-    padding : 0;
+.thumbnail {
+  padding: 0;
 }
 
+.thumbnail .caption-full {
+  padding: 0.57em;
+}
 
-.thumbnail .caption-full{
-    padding : 0.57em;
+.Landing {
+  text-align: center;
+  /* background-color: rgba(130, 130, 130, 0.2); */
+  width: 25%;
+  margin: auto;
+  font-size: 2rem;
+}
+body {
+  background-image: url(../img.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(57, 3, 252);
 }

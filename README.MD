@@ -50,6 +50,6 @@ node app.js
 
 ## Authors
 
-- **Colt Steele** - _Course Teacher_ - [Colt](https://github.com/Colt)
+- **Colt Steele** - _Course Instructor - [Colt](https://github.com/Colt)
 
 - **Ammar Faouri** - _Student_ - [Ammar](https://github.com/ammarfaouri)
